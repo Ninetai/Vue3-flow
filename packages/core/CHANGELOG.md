@@ -1,5 +1,11 @@
 # @vue-flow/core
 
+## 1.6.3
+
+### Patch Changes
+
+- [#532](https://github.com/bcakmakoglu/vue-flow/pull/532) [`cd77871`](https://github.com/bcakmakoglu/vue-flow/commit/cd778715a22769f36656bff8e95841899a0c0317) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Use `vue-flow__handle` in handle bounds selector to avoid selecting elements with the `source` or `target` class names that aren't handles
+
 ## 1.6.2
 
 ### Patch Changes
